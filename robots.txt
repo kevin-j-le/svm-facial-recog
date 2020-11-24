@@ -1,1 +1,1 @@
-Sitemap: https://fastpages.fast.ai/sitemap.xml
+Sitemap: http://kevin-j-le.github.io/svm-facial-recog/sitemap.xml
