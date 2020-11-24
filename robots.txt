@@ -1,1 +1,1 @@
-Sitemap: http://kevin-j-le.github.io/svm-facial-recog/sitemap.xml
+Sitemap: /https://kevin-j-le.github.io/svm-facial-recog/sitemap.xml
